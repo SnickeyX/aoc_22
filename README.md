@@ -1,1 +1,9 @@
-# aoc_22
+### Advent of Code '22! ☃☃
+Goal: Get better at chosen languages + have some fun ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ )
+
+| day | python | cpp | tbd (rust?) |
+| --- | ------ | --- | --- |
+| 1  | <li>[x] done</li> | <li>[x] done</li> |  | 
+| 2  | <li>[x] done</li> | <li>[x] done</li> |  | 
+| 3  | <li>[x] done</li> | <li>[x] done</li> |  | 
+| 4  | <li>[ ] done</li> | <li>[ ] done</li> |  | 
