@@ -12,6 +12,7 @@ def cal_round_pts_1(opp_mv, our_mv):
         total_pts+= 0 
     return total_pts
     
+# TODO: Clean up the messy nested ifs   
 def cal_round_pts_2(opp_mv, our_mv):
     opp_ord_mv = ord(opp_mv) % 64
     our_ord_mv = ord(our_mv) % 88
