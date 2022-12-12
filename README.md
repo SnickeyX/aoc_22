@@ -14,4 +14,5 @@ Goal: Get better at chosen languages + have some fun ( ͡▀̿ ̿ ͜ʖ ͡▀̿
 | 9  | <li>[x] done</li> | <li>[ ] done</li> |  |
 | 10 | <li>[x] done</li> | <li>[ ] done</li> |  |
 | 11 | <li>[x] done</li> | <li>[ ] done</li> |  |
-| 12 | <li>[ ] done</li> | <li>[ ] done</li> |  |
+| 12 | <li>[x] done</li> | <li>[ ] done</li> |  |
+| 13 | <li>[ ] done</li> | <li>[ ] done</li> |  |
